@@ -1,0 +1,7 @@
+{
+  "p_dec": "1222023965506290853",
+  "g_dec": "5",
+  "A_dec": "528522703702450282",
+  "B_dec": "566132874237330265",
+  "note": "Exponents are small enough to brute-force (<= 2^22). Compute the shared secret."
+}

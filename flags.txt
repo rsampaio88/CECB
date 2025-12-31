@@ -1,0 +1,10 @@
+AES-256-GCM : SECRET_GCM_vkcg365zozxa8cnmi1
+Viginere : RTL{mwdwwjcw137314y1a13131}
+Caeser : FLAG_CAESAR_w55bp1u39x
+Diffie : 397298097313434959
+Birthday attack
+RC4 : RC4_RECOVER_mtv1cl5z9gzl847c4
+RSA : FLAG_RSA_1qbg2856rl6vo18n
+Affine :  AFFINE RESULT IS FLAG_AFFINE_L0ZIENEFH543XA
+RSA Cube Root: CUBE_ROOT_2ek52q8qc4lh4s7fr3
+Rail Fence (3 rails) : RAIL FENCE RESULT IS FLAG_RAILFENCE_cltlque15zfluzun

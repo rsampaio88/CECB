@@ -1,0 +1,10 @@
+{
+  "note": "GCM with nonce reuse (treat as same CTR keystream). Ignore tags for this challenge.",
+  "nonce_hex": "1e246736fb2295e37f14c027",
+  "aad_hex": "",
+  "known_plaintext_ascii": "{\"type\":\"notice\",\"msg\":\"service status: OK\"}",
+  "ciphertext1_hex": "4f33d255154763ac46fbbf4ba940bf8311952461f59e6f85c8ea7c75fc7f58641f01ab98f9d5105df4e9b39c",
+  "tag1_hex": "e8c230f21c0be84e7c1091053cddd204",
+  "ciphertext2_hex": "6754e57e20761ed127d88f49ab40bd920b82337de8c4349fd8e1636aa4",
+  "tag2_hex": "4fecdfc3f850cf709ff9aee6b8fef441"
+}

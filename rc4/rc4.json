@@ -1,0 +1,6 @@
+{
+  "ciphertext_known_hex": "adaca0a74acd61fe238b4ca5102c8437dd6843b7fff87a45a63652a06d",
+  "known_plaintext_ascii": "HEADER: version=1; status=ok\n",
+  "ciphertext_secret_hex": "b7aad5bc5dda189103ab6c8914379c3b8f3f56beb2fe745ced3f0aa85390ef09f4fe",
+  "note": "Same RC4 key was reused; treat as keystream reuse."
+}
