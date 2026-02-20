@@ -14,14 +14,5 @@ layer2_str = layer2.decode('latin-1')
 # Camada 3
 layer3 = base64.b64decode(layer2_str)  # m7n0mGQcf3dTBzfXcjHX3y9Udh4NotSNkxZLSxV...
 
-# A camada 3 já parece ser a mensagem final
-try:
-    # Tentar decodificar como UTF-8/ASCII
-    final_message = layer3.decode('utf-8')
-    print("Mensagem final recuperada:")
-    print(final_message)
-except:
-    # Se não for UTF-8, tentar latin-1
-    final_message = layer3.decode('latin-1')
-    print("Mensagem final recuperada (latin-1):")
-    print(final_message)
+final_message = layer3.decode('utf-8')
+print(final_message)
